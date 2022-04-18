@@ -1,1 +1,1 @@
-web: gunicorn rafaelmafra.wsgi.py
+web: gunicorn rafaelmafra.wsgi
